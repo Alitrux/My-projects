@@ -16,6 +16,6 @@ This is a homework I was assigned to do in a deep learning class. The goal is to
 
 This is a course I am taking as of right now. The subjects so far covered are GAN (Generative adversarial networks), Graph Machine Leaning, Graph Neural Network and Variational AutoEncoders & Denoising Diffusion Probabilistic Mode.
 
-## Multimodal generarive AI
+## Multimodal generative AI
 
 This is a course I am taking as of right now. The subjects so far covered are Vision Transformers, Self Supervised Learning and Multimodal Image Synthesis (stable diffusion).
