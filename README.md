@@ -1,4 +1,4 @@
-# My-projects and Courses
+# My-projects and Courses - Matéi Voillemier
 
 ## INF 442
 
